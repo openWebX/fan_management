@@ -34,8 +34,8 @@ IRsend irsend(IR_LED);
 
 /************************* WiFi Access Point ******************************/
 
-#define WLAN_SSID       "closedWeb"
-#define WLAN_PASS       "isjMu6Uaumau7"
+#define WLAN_SSID       "*************"
+#define WLAN_PASS       "*************"
 
 /************************* MQTT Setup *************************************/
 
